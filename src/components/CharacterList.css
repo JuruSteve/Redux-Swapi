@@ -1,0 +1,13 @@
+ul {
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+li {
+  padding: 10px;
+}
+
+li:nth-child(odd) {
+  background: wheat;
+}
