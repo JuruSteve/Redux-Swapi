@@ -5,7 +5,7 @@ import { CharacterList } from '../components'
 // import actions
 import { fetchCharacters } from '../actions'
 import Loader from 'react-loader-spinner'
-
+import './CharacterListView.css'
 class CharacterListView extends React.Component {
   constructor (props) {
     super(props)

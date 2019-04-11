@@ -1,6 +1,7 @@
 import React from 'react'
 
 import Character from './Character'
+import './CharacterList.css'
 
 const CharacterList = props => {
   console.log(props)
